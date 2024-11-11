@@ -1,16 +1,7 @@
-# master_plan
+Nama : Nurvi A'malina NIM: 362358302001
 
-A new Flutter project.
+Praktikum 1
+![Screenshot (28)](https://github.com/user-attachments/assets/8523d01b-1195-4f19-838b-495bf2fa9dd2)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Praktikum 2
+![Screenshot (30)](https://github.com/user-attachments/assets/4c2c7924-f3f7-4c74-a373-42416542e258)
